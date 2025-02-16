@@ -1,3 +1,5 @@
+<link rel="icon" href="https://github.com/user-attachments/assets/3330bb8d-ce86-479b-b9c9-ab9be15eb367">
+
 # Better Badminton – Den smartere måde at følge med i turneringer
 
 Better Badminton er udviklet med fokus på brugervenlighed og effektivitet. Vi ved, hvor frustrerende det kan være at navigere rundt i forældede designs og bruge unødvendigt mange klik på at finde simple oplysninger. Derfor har vi skabt en app, der gør det let og overskueligt at følge med i turneringer og holde styr på kampene.
