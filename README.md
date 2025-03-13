@@ -20,3 +20,10 @@ Vi har skåret ned på antallet af klik og gjort navigationen enkel og intuitiv.
 Better Badminton løser de udfordringer, du måske har oplevet før, og giver dig en enkel, effektiv og brugervenlig måde at følge med i badmintonverdenen. Uanset om du er spiller, træner eller fan, gør Better Badminton det nemt at få overblik og følge med i spændingen – live og i realtid.
 
 Prøv Better Badminton i dag og mærk forskellen!
+
+## Download Appen
+iOS: https://apps.apple.com/us/app/better-badminton/id6742021070
+
+Android (testerprogram): https://forms.gle/8ipeQLBVdSMJC92c8
+
+Feedback kan gøres inde i appen.
