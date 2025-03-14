@@ -22,8 +22,11 @@ Better Badminton løser de udfordringer, du måske har oplevet før, og giver di
 Prøv Better Badminton i dag og mærk forskellen!
 
 ## Download Appen
-iOS: https://apps.apple.com/us/app/better-badminton/id6742021070
+[iOS (Apple)](https://apps.apple.com/us/app/better-badminton/id6742021070)
 
-Android (testerprogram): https://forms.gle/8ipeQLBVdSMJC92c8
+[Android (testerprogram)](https://forms.gle/8ipeQLBVdSMJC92c8)
+
+[Støt udviklinge](https://studio.buymeacoffee.com/dashboard)
+
 
 Feedback kan gøres inde i appen.
