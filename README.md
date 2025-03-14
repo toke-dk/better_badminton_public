@@ -1,5 +1,8 @@
 <link rel="icon" href="https://github.com/user-attachments/assets/3330bb8d-ce86-479b-b9c9-ab9be15eb367">
 
+![Feature graphics](https://github.com/user-attachments/assets/ba82f126-04e9-454a-8ce7-050d317791ed)
+
+
 # Better Badminton – Den smartere måde at følge med i turneringer
 
 Better Badminton er udviklet med fokus på brugervenlighed og effektivitet. Vi ved, hvor frustrerende det kan være at navigere rundt i forældede designs og bruge unødvendigt mange klik på at finde simple oplysninger. Derfor har vi skabt en app, der gør det let og overskueligt at følge med i turneringer og holde styr på kampene.
@@ -26,7 +29,15 @@ Prøv Better Badminton i dag og mærk forskellen!
 
 [Android (testerprogram)](https://forms.gle/8ipeQLBVdSMJC92c8)
 
-[Støt udviklinge](https://studio.buymeacoffee.com/dashboard)
-
+[Støt udviklingen](https://studio.buymeacoffee.com/dashboard)
 
 Feedback kan gøres inde i appen.
+
+<img src="https://github.com/user-attachments/assets/276289b5-c0bc-4597-871b-d60dd3476c10" alt="11" width="200">
+<img src="https://github.com/user-attachments/assets/f47d447f-8a17-459a-b296-fad1205a6df6" alt="12" width="200">
+<img src="https://github.com/user-attachments/assets/56f6b550-7228-4623-b686-0106b15dc1c3" alt="16 kopi" width="200">
+<img src="https://github.com/user-attachments/assets/c2b931df-fdde-4e99-b405-467273450ab2" alt="17 kopi" width="200">
+<img src="https://github.com/user-attachments/assets/32c26ba5-90be-46e7-bf2c-58e38bfb4cb9" alt="15 kopi" width="200">
+<img src="https://github.com/user-attachments/assets/2dda240f-d67e-4bc8-a312-90e8c8788621" alt="18 kopi" width="200">
+<img src="https://github.com/user-attachments/assets/d078a675-7639-4528-9423-9a699e944ba7" alt="19 kopi" width="200">
+
