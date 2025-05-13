@@ -33,7 +33,7 @@ Prøv Better Badminton i dag og mærk forskellen!
 ## Download Appen
 [iOS (Apple)](https://apps.apple.com/us/app/better-badminton/id6742021070)
 
-[Android]([https://forms.gle/8ipeQLBVdSMJC92c8](https://play.google.com/store/apps/details?id=dk.pinova.better_badminton&hl=en))
+[Android](https://play.google.com/store/apps/details?id=dk.pinova.better_badminton&hl=en)
 
 [Støt udviklingen](https://studio.buymeacoffee.com/dashboard)
 
